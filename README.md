@@ -4,13 +4,6 @@ This project aims to predict whether a person has diabetes based on certain diag
 ![image](https://github.com/user-attachments/assets/874a4924-7074-40f8-b6f6-26fad95f6b78)
 ![image](https://github.com/user-attachments/assets/8caed8b1-db2e-40dc-9417-5480e67db499)
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About the Project
 
